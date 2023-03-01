@@ -1,0 +1,43 @@
+.primerdiv {
+    background-color: #CCF381;
+    height: 777px;
+    width: 300px;
+    border-style:solid;
+    border-color:#e2ffaf;
+}
+
+.imagen {
+    margin: 10px 80px 15px;
+    border-radius: 50%;
+    border-style:double;
+    border-width: 7px;
+}
+
+.cv {
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+    background-color: rgb(255, 255, 248);
+}
+
+
+.datos {
+    margin: auto 25px;
+
+}
+
+.datos2 {
+    color: #4831D4;
+    margin: auto 25px;
+    position:relative;
+    right:50px
+}
+
+.p-3 {
+    height: 50px;
+    border-radius:50px;
+}
+
+.dp {
+    margin-top: -18px;
+
+}
